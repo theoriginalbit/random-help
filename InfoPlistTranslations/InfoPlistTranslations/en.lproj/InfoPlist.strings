@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  InfoPlistTranslations
+
+  Created by Joshua Asbury on 5/4/21.
+  
+*/
+
+NSCameraUsageDescription = "This is the usage description for camera usage in English";
